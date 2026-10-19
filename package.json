@@ -1,0 +1,20 @@
+{
+  "name": "nano-scraper-ym3",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "olvyr (https://github.com/olvyr)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
