@@ -1,0 +1,13 @@
+:root {
+  --primary: #6366f1;
+  --background: #0f172a;
+  --surface: #1e293b;
+  --text: #f8fafc;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background: var(--background);
+  color: var(--text);
+}
